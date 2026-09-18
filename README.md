@@ -4,8 +4,9 @@ Hands-on security configurations built in a Microsoft 365 E5 environment, demons
 
 All configurations were performed in a personal M365 E5 trial environment for portfolio demonstration purposes. No production systems or employer data were used.
 
+---
 
-## Project — Identity & Access Management Framework (Entra ID)
+## Project 1 — Identity & Access Management Framework (Entra ID)
 
 Complete IAM implementation from scratch — user provisioning, security groups, Conditional Access policies (MFA enforcement, legacy auth blocking, device compliance), automated quarterly access reviews, Privileged Identity Management, Named Locations, and Identity Protection monitoring.
 
@@ -13,6 +14,25 @@ Complete IAM implementation from scratch — user provisioning, security groups,
 
 📄 [View Full Report](EntraID_IAM_Framework_Implementation_Report.pdf)
 
+---
+
+## Project 2 — Endpoint Compliance Program (Intune)
+Complete endpoint compliance framework — tiered compliance policies (security baseline, firewall/AV enforcement, enhanced privileged device controls), security hardening configuration profiles, endpoint security management, and compliance monitoring. Demonstrates risk-based device management proportional to user privilege level.
+
+**Compliance Mapping:** ISO 27001 A.8 (Asset Management), A.12 (Operations Security), SOC 2 CC6.1/CC6.6/CC6.8, PCI DSS Req 1, 3, 5, 6, 8
+
+📄 [View Full Report](Intune_Endpoint_Compliance_Program_Report.pdf)
+
+## Project 3 — Data Classification & DLP (Purview)
+*Coming soon*
+
+## Project 4 — Security Posture Assessment (Defender + Nessus)
+*Coming soon*
+
+## Project 5 — Incident Response Playbooks
+*Coming soon*
+
+---
 
 **Built by** [Kapil Chaudhary](https://www.linkedin.com/in/kapil-chaudhary-cyber-security/) — GRC & Cybersecurity Professional | Ontario, Canada
 
