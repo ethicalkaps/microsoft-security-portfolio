@@ -24,7 +24,11 @@ Complete endpoint compliance framework — tiered compliance policies (security 
 📄 [View Full Report](Intune_Endpoint_Compliance_Program_Report.pdf)
 
 ## Project 3 — Data Classification & DLP (Purview)
-*Coming soon*
+Complete data classification and DLP implementation — four-tier sensitivity label taxonomy (Public, Internal, Confidential, Highly Confidential), auto-labeling policies for credit card and PII detection, and DLP policies blocking unauthorized external sharing of classified content.
+
+**Compliance Mapping:** ISO 27001 A.8.2/A.8.12 (Classification/DLP), SOC 2 Confidentiality, PCI DSS Req 3-4, HIPAA PHI Protection
+
+📄 [View Full Report](Purview_Data_Classification_DLP_Report.pdf)
 
 ## Project 4 — Security Posture Assessment (Defender + Nessus)
 *Coming soon*
