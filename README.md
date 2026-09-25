@@ -31,10 +31,11 @@ Complete data classification and DLP implementation — four-tier sensitivity la
 📄 [View Full Report](Purview_Data_Classification_DLP_Report.pdf)
 
 ## Project 4 — Security Posture Assessment (Defender + Nessus)
-*Coming soon*
+Security posture assessment using Microsoft Defender Secure Score — baseline measurement, prioritized improvement recommendations, quick-win remediation with MFA enforcement, and measurable before/after score improvement. Includes incident monitoring, threat analytics, and security reporting dashboards.
 
-## Project 5 — Incident Response Playbooks
-*Coming soon*
+**Compliance Mapping:** ISO 27001 A.18.2.1/Clause 10 (Review/Improvement), SOC 2 CC4.1/CC7.2, PCI DSS Req 10-11, NIST CSF Identify/Detect
+
+📄 [View Full Report](Defender_Security_Posture_Assessment_Report.pdf)
 
 ---
 
